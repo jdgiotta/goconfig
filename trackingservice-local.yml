@@ -1,1 +1,2 @@
 configServerURL=http://configserver:8888
+amqp_server_url=amqp://rabbitmq:5672
