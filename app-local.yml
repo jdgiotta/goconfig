@@ -1,2 +1,6 @@
 name: john
 year: 2018
+kafka:
+  servers:
+    - server01
+    - server02
